@@ -1,0 +1,31 @@
+{
+  "name": "m-blog",
+  "version": "0.0.1",
+  "description": "My and Mondo's blog",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MondoGao/M-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": {
+    "name": "MondoGao",
+    "email": "mondogao@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MondonpmGao/M-blog/issues"
+  },
+  "homepage": "https://github.com/MondoGao/M-blog#readme",
+  "dependencies": {
+    "mongodb": "^2.2.12"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
+}
