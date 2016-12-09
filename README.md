@@ -28,6 +28,8 @@
 - 跟着 [N-blog](https://github.com/nswbmw/N-blog/) 进行搭建
 
 ### 完成
+- 初步了解 connect-flash
+- 初步了解 session
 - 初步了解 ejs
 - 初步了解 express
 - 使用 supervisor
